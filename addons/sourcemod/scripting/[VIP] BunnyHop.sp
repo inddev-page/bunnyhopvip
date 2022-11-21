@@ -3,9 +3,9 @@
 #pragma newdecls required
 
 #define PLUGIN_NAME "[VIP] BunnyHop"
-#define PLUGIN_AUTHOR "IND "
+#define PLUGIN_AUTHOR "IND"
 #define PLUGIN_VERSION "0.1"
-#define AUTHOR_URL "https://github.com/ind333"
+#define AUTHOR_URL "https://github.com/inddev-page"
 
 #define VIP_BHOP "BunnyHop"
 
